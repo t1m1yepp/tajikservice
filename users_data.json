@@ -1,0 +1,44 @@
+{
+    "1642578826": {
+        "name": "egrngr",
+        "username": "chicomewingjordan",
+        "phone": "+35799539964",
+        "balance": 104200.0,
+        "auth_date": "2025-04-24 23:26:44",
+        "withdrawals": [
+            {
+                "amount": 5600.0,
+                "card": "1111111111111111",
+                "date": "2025-04-24 23:28:21",
+                "status": "pending"
+            },
+            {
+                "amount": 100.0,
+                "card": "1111111111111111",
+                "date": "2025-04-24 23:39:53",
+                "status": "pending"
+            },
+            {
+                "amount": 100.0,
+                "card": "1111111111111111",
+                "date": "2025-04-25 20:18:15",
+                "status": "pending"
+            }
+        ]
+    },
+    "7368560906": {
+        "name": "alinazwq",
+        "username": "jekejbebd",
+        "phone": "+79001432479",
+        "balance": 100.0,
+        "auth_date": "2025-04-24 23:41:17",
+        "withdrawals": [
+            {
+                "amount": 400.0,
+                "card": "1111111111111111",
+                "date": "2025-04-24 23:43:39",
+                "status": "pending"
+            }
+        ]
+    }
+}
