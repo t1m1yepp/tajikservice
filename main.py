@@ -261,7 +261,7 @@ async def show_users(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 async def handle_admin_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    if update.effective_user.id != ADMIN_ID:
+    if update.effective_user.id not in ADMINS:
         return
 
     text = update.message.text
